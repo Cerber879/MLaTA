@@ -1,0 +1,17 @@
+﻿  lab14_13.cpp
+C:\Users\User\source\repos\MLaTA\lab14_13\lab14_13.cpp(112,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MLaTA\lab14_13\lab14_13.cpp(114,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MLaTA\lab14_13\lab14_13.cpp(115,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4267: инициализация: преобразование из "size_t" в "_Ty2"; возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\User\source\repos\MLaTA\lab14_13\lab14_13.cpp(108,22): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<int&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=int &,
+              _Other2=unsigned __int64
+          ]
+C:\Users\User\source\repos\MLaTA\lab14_13\lab14_13.cpp(108,21): message : см. первую ссылку на "std::pair<int,int>::pair" в "passageForward"
+  lab14_13.vcxproj -> C:\Users\User\source\repos\MLaTA\x64\Debug\lab14_13.exe

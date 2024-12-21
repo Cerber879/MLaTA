@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MLaTA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\lab 11_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|solutionrelative:lab 11_6\\lab 11_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|solutionrelative:lab 11_6\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F153C131-C169-4EFD-ACCF-06D96D479324}|lab 11_6\\lab 11_6.vcxproj|solutionrelative:lab 11_6\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab 11_6.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\lab 11_6.cpp",
+              "RelativeDocumentMoniker": "lab 11_6\\lab 11_6.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\lab 11_6.cpp",
+              "RelativeToolTip": "lab 11_6\\lab 11_6.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T22:00:19.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\output.txt",
+              "RelativeDocumentMoniker": "lab 11_6\\output.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\output.txt",
+              "RelativeToolTip": "lab 11_6\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-04T09:21:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\input.txt",
+              "RelativeDocumentMoniker": "lab 11_6\\input.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MLaTA\\lab 11_6\\input.txt",
+              "RelativeToolTip": "lab 11_6\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-03T22:12:44.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
